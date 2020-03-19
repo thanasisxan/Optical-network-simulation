@@ -110,7 +110,7 @@ station_l3_2 = Station('(Station 6) (λ3)', 3)
 station_l4_1 = Station('(Station 7) (λ4)', 4)
 station_l4_2 = Station('(Station 8) (λ4)', 4)
 
-# Προσομοίωση για T timeslots
+# Προσομοίωση για τον αριθμό timeslots που ορλισαμε στην αρχή
 # υποτίθεται οτι κάθε κάλεσμα της συνάρτησης simulation_samewavelenth_stations εκτελείται παράλληλα
 # σε κάθε ξεχωριστό timeslot
 for ts in range(timeslots):
