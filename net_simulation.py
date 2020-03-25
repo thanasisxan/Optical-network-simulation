@@ -8,7 +8,6 @@ transmitting_prob = 0.5
 timeslots = 1000
 stations = 8
 
-
 totalpacketscreated = 0
 totalpacketssent = 0
 totalpacketslost = 0
